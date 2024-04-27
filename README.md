@@ -1,1 +1,3 @@
-## This is repository for System Analysis and Design (SECD2613) Project
+## Repository of System Analysis and Design (SECD2613) Project
+
+
